@@ -1,0 +1,180 @@
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-color{
+    background-color: #f5f8ff;
+}
+
+.primary-color-btn{
+    background-color: #4E47FF; 
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    border: none;
+    transition: 0.5s ease-in-out;
+}
+.primary-color-btn:hover{
+    background-color: #FFCC00;
+    font-size: 16px;
+    color: black;
+}
+.logo-h1{
+    color: #4E47FF;
+    font-weight: 900;
+    font-size: 34px;
+}
+
+.primary{
+     color: #4E47FF;
+     font-weight: bold;
+     font-size: 80px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav ul li{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.hero-img{
+    background-image: url('./Assets/Hero-bg.png');
+    height: 770px;
+    background-size: cover;
+
+}
+
+.banner{
+    text-align: center;
+   margin-top: 230px;
+   
+}
+
+
+
+
+.banner-title{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+}
+
+.title-descripton{
+    font-weight: 400;
+    font-size: 24px;
+    color: #252432;
+    opacity: 50%;
+}
+
+.title-1{
+    font-weight: 400;
+    font-size: 42px;
+}
+
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 116px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.wc-img{
+    border: none;
+    border-radius: 48px;
+}
+
+.marketing-container{
+    background-color: #e6e6ff;
+   
+  border: none;
+  border-radius: 24px;
+  height: 306px;
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 113px;
+}
+
+.content{
+    text-align: center;
+    padding: 50px 142px;
+    align-items: center;
+   
+}
+
+.marketing{
+    display: flex;
+    justify-content: space-around;
+}
+
+.test{
+    text-align: center;
+    margin-top: 140px;
+}
+
+.testimonial-container{
+    background-color: #ffffff;
+    width: 366px;
+    height: 265px;
+    text-align: left;
+    padding-left: 24px;
+    padding-top: 24px;
+    border-radius: 14px;
+}
+
+.des-1{
+    display: flex;
+    gap: 12px;
+}
+
+.avatar{
+    border: none;
+    border-radius: 50%;
+}
+
+.testimonial-description{
+    margin-top: 20px;
+}
+
+.tester{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-left: 345px;
+    margin: 0 auto;
+    
+    
+    
+}
+
+
+
+
