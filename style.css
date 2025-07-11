@@ -230,6 +230,48 @@ nav ul li{
     padding-right: 189px;
 }
 
+.footer-content{
+    font-size: 15px;
+    font-weight: 400;
+    color: #8987A1;
+    
+   
+}
+
+footer{
+    background-color: #FFFFFF;
+    height: 426px;
+    padding: 104px 455px;
+
+    
+}
+
+
+footer ul{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+footer ul li{
+    list-style: none;
+    
+}  
+
+footer ul li a{
+    text-decoration: none;
+    color: #8987A1;
+
+}
+
+.foot{
+    text-align: center;
+}
+
+.footer-h1{
+    margin-bottom: 8px;
+}
+
 
 
 
